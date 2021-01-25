@@ -2,3 +2,5 @@ $ sed -i 's/unix/linux/g' linux.txt we are replacing unix word with lunix word[
 
 raju annam is typing
 :wq
+TEsting
+:
